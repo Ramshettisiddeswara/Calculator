@@ -4,15 +4,16 @@ The Calculator App is a sleek, intuitive tool designed to simplify everyday arit
 
 💻 Technologies Used
 
-Front-End: Java Swing for crafting a graphical user interface
-Back-End: Java for implementing core logic and event handling
+Front-End: Java Swing for crafting a graphical user interface,
+Back-End: Java for implementing core logic and event handling,
 Development Environment: Visual Studio Code
-🛠️ Key Features
 
+🛠️ Key Features
 User-Friendly Interface: Designed to resemble a real calculator, complete with buttons for numbers, operations, and results.
 Arithmetic Operations: Perform addition, subtraction, multiplication, and division effortlessly.
 Advanced Features: Includes a clear button to reset the calculator, support for decimal numbers, and an equals button for precise calculations.
 Error Handling: Displays appropriate error messages for invalid operations like division by zero.
+
 📈 Learning Outcomes
 This project significantly enhanced my Java programming skills, particularly in building GUI applications using Swing. It also deepened my understanding of event-driven programming and user experience design. Developing this project was a rewarding experience, as it allowed me to create a practical tool while honing my coding expertise.
 
